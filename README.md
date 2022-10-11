@@ -1,16 +1,10 @@
 # flutter_forms
 
-A new Flutter project.
 
-## Getting Started
+<img width="347" alt="Capture d’écran 2022-10-11 à 18 53 25" src="https://user-images.githubusercontent.com/18366294/195152985-8d7a1538-b74a-45b0-bf3d-0fff2346d1c0.png">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="320" alt="Capture d’écran 2022-10-11 à 18 53 30" src="https://user-images.githubusercontent.com/18366294/195153004-c7f61784-6269-4a98-9ff5-9778930c2c31.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="324" alt="Capture d’écran 2022-10-11 à 18 53 36" src="https://user-images.githubusercontent.com/18366294/195153028-a0d6eb6c-0be9-4fea-ae78-72983e71011a.png">
